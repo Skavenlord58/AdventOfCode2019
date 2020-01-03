@@ -1,4 +1,5 @@
 import argparse as ar
+import timeit
 
 
 def load_instruction_list(input_file) -> str:
@@ -76,7 +77,7 @@ if __name__ == '__main__':
     ins_list = ins_into_list(ins_str)
     ins_list_dva = ins_list.copy()
 
-    print('Part one result: ', process_instructions(ins_list)[0])
+    print('Part one result: ', process_instructions(ins_list.copy())[0])
     print('Part two result: ', part2_processing(ins_list_dva))
 
 

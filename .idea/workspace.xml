@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6c7cf29-f45e-47bb-8b84-24c41b44cf71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AdventOfCode2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdventOfCode2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a6c7cf29-f45e-47bb-8b84-24c41b44cf71" name="Default Changelist" comment="day2 edited">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/krasa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +22,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SakDrakken &lt;adamkrasa@seznam.cz&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1VsbcoC9vITqAC5XGLvUwy6etL9" />
   <component name="ProjectViewState">
@@ -33,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -140,9 +145,25 @@
       <option name="presentableId" value="Default" />
       <updated>1575751273561</updated>
     </task>
+    <task id="LOCAL-00001" summary="day2 done">
+      <created>1578059514021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578059514021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2 done" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1306" y="175" key="CommitChangelistDialog2" timestamp="1578062271722">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1306" y="175" key="CommitChangelistDialog2/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578062271722" />
     <state width="1899" height="396" key="GridCell.Tab.0.bottom" timestamp="1578057375737">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
@@ -167,5 +188,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578044837922" />
+    <state x="-1151" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578059521271">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1151" y="498" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578059521271" />
   </component>
 </project>
