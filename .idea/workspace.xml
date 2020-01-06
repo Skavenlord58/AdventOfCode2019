@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6c7cf29-f45e-47bb-8b84-24c41b44cf71" name="Default Changelist" comment="day2 edited">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/krasa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input3.txt" afterDir="false" />
+    <list default="true" id="a6c7cf29-f45e-47bb-8b84-24c41b44cf71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day3_input3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_input3test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input3test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/krasa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/krasa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +31,16 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1VsbcoC9vITqAC5XGLvUwy6etL9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -46,7 +50,7 @@
       <recent name="C:\Users\Home\Desktop\git\AdventOfCode2019" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day2">
+  <component name="RunManager" selected="Python.day3">
     <configuration name="AdventOfCode2019" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AdventOfCode2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="canvastest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/canvastest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,13 +135,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.AdventOfCode2019" />
       <item itemvalue="Python.day1" />
       <item itemvalue="Python.day2" />
+      <item itemvalue="Python.canvastest" />
+      <item itemvalue="Python.day3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day3" />
+        <item itemvalue="Python.canvastest" />
         <item itemvalue="Python.day2" />
         <item itemvalue="Python.day1" />
       </list>
@@ -152,34 +202,51 @@
       <option name="project" value="LOCAL" />
       <updated>1578059514021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day2 edited &amp; day3 in progress">
+      <created>1578067534349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578067534349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="day2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2 done" />
+    <MESSAGE value="day2 edited &amp; day3 in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2 edited &amp; day3 in progress" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1306" y="175" key="CommitChangelistDialog2" timestamp="1578062271722">
+    <state x="-1202" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578301995994">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="-1306" y="175" key="CommitChangelistDialog2/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578062271722" />
-    <state width="1899" height="396" key="GridCell.Tab.0.bottom" timestamp="1578057375737">
+    <state x="-1202" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578301995994" />
+    <state x="-1306" y="175" key="CommitChangelistDialog2" timestamp="1578067533857">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1306" y="175" key="CommitChangelistDialog2/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578067533857" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1578304223711">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578057375737" />
-    <state width="1899" height="396" key="GridCell.Tab.0.center" timestamp="1578057375737">
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578304223711" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1578304223711">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578057375737" />
-    <state width="1899" height="396" key="GridCell.Tab.0.left" timestamp="1578057375737">
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578304223711" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1578304223711">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578057375737" />
-    <state width="1899" height="396" key="GridCell.Tab.0.right" timestamp="1578057375737">
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578304223711" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1578304223711">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1578057375737" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1578304223711" />
     <state x="-1459" y="223" key="SettingsEditor" timestamp="1578045536379">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>

@@ -2,6 +2,7 @@
   <dictionary name="krasa">
     <words>
       <w>moveset</w>
+      <w>posx</w>
     </words>
   </dictionary>
 </component>
